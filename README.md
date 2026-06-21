@@ -139,3 +139,12 @@ This is a prototype, not a production system.
 ## Background
 
 Based on a research proposal exploring ML-driven proactive network slicing for emergency communications within an O-RAN architecture, aligned with 3GPP 5G QoS and slicing standards. This repository implements and validates the core predictive component of that proposal.
+
+---
+📧 **Email** - [jayavarshinijayakumaran11@gmail.com](mailto:jayavarshinijayakumaran11@gmail.com)
+
+🙌 **Connect** - [LinkedIn: Jayavarshini Jayakumaran](https://www.linkedin.com/in/jayavarshini-jayakumaran)
+
+📄 **License** - [MIT](LICENSE)
+
+<p align="center"><b>Finish what you started 💻</b></p>
