@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+.DS_Store
+venv/
+
+# keep the PDF version of the proposal, hide the editable docx source
+assets/*.docx
